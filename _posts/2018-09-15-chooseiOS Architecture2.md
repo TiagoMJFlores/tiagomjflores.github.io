@@ -34,11 +34,11 @@ There were, for example, some developers that mixed within the same HTML file, P
 
 An example of the MVC cycle:
 
-- 1 A user action/event in the View Layer (eg: Refresh Action) is fired and that action is communicated to Controller
-- 2 The Controller that asks data to the Model Layer
-- 3 Model the returns data to Controller
-- 4 Controller says for the View update his state with the new Data
-- 5 View update his state
+.1 A user action/event in the View Layer (eg: Refresh Action) is fired and that action is communicated to Controller
+.2 The Controller that asks data to the Model Layer
+.3 Model the returns data to Controller
+.4 Controller says for the View update his state with the new Data
+.5 View update his state
 
 ### Apple MVC
 
