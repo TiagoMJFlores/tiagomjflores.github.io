@@ -101,7 +101,9 @@ In some teams, the project is so complex that there may be developers or teams o
 
 Integration begins to become a serious problem when you have to integrate code developed by a big team because the scale of integrations problems is directly associated with the size of the team.
 
-So there are practices that are almost essential when working with a large team such as Continuous Integration and Modular development of components simultaneous (Independent Developability ) but in the cases of very small teams they have a low positive impact or are even harmful. So Team size can also affect the overall decisions about the app. The point is that Team size matters. Ants and bees that live in large numbers and have a large social organization also create together, in a very structured way, great engineering works such as anthills or hives.
+So there are practices that are almost essential when working with a large team such as Continuous Integration and Modular development of components simultaneous (Independent Developability ) but in the cases of very small teams they have a low positive impact or are even harmful. So Team size can also affect the overall decisions about the app. The point is that Team size matters. 
+
+Ants and bees that live in large numbers and have a large social organization also create together, in a very structured way, great engineering works such as anthills or hives. Think about this a bit.
 
 Part one ends here. Part two will talk about MVC, Apple MVC, MVC vs. MVP and MVP vs. MVVM.
 
