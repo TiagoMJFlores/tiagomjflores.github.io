@@ -13,6 +13,7 @@ actions:
 
 ### How to choose the appropriate iOS Architecture?
 
+
 Note: You can read the original Medium article [`here`](https://medium.com/@tiagoflores_23976/how-choose-the-appropriate-ios-architecture-mvc-mvp-mvvm-viper-or-clean-architecture-2d1e9b87d48).
 
 
@@ -42,7 +43,8 @@ According to my current limited understanding, I divide the architectures into 3
 * High-Level Essential Complexity: VIPER or VIP
 
 MVC is at the first level. There are apps that are done in two/three weeks, and MVC is enough for them.
-In the last level of complexity, there is VIPER or VIP (Clean Architecture). These architectures have so many layers and require a lot of boilerplate, that the iOS some of the developers who use them use code template generators.
+In the last level of complexity, there is VIPER or VIP (Clean Architecture). These architectures have so many layers and require a lot of boilerplate, that the iOS some of the developers who use them use [`Code Template Generators`](https://www.google.pt/search?num=30&ei=qEGdW7XfGrXA0PEPoMCsoAw&q=viper+template+ios+github&oq=viper+template+ios+github&gs_l=psy-ab.3...6462.6462.0.6647.1.1.0.0.0.0.122.122.0j1.1.0....0...1.1.64.psy-ab..0.0.0....0.eWB3BC8-QWU)
+.
 
 I heard that UBER uses a VIPER variant but UBER has a team of 100 iOS developers. In VIPER and VIP, there are more layers than in the other architectures, and this can help fulfil the Single Responsibility Principle better. Without any doubt when you have an app with millionaire profits and high complexity you should separate the responsibilities of the app as much as possible and test all components individually.
 
