@@ -26,7 +26,7 @@ M : Business Logic, Network Layer and Data Access Layer
 
 V : UI Layer (UIKit things, Storyboards, Xibs)
 
-C: Coordinator and Intermediate between Model and View.
+C: Coordinates mediation between Model and View.
 
 To understand MVC we must understand the context in which it was invented. MVC was invented in the old Web development days, where Views has no state. In the old times each time we need a visual change in the website, the browser reload the whole HTML again. At the time there was no concept of the view state being maintained and saved.
 
