@@ -122,7 +122,7 @@ So the contracts (protocols) create a decoupling between the layers.
 One of the main differences between MVP and MVVM is that in MVP the Presenter communicates with the View through interfaces, and in the MVVM the View is oriented to data and events changes.
 
 In The MVP we make manual binding between Presenter and View using Interfaces/Protocols.
-In The MVVM we make automatic data binding using something like RxSwift, KVO or use a mechanism with generics and closures as I did in this project.
+In The MVVM we make automatic data binding using something like RxSwift, KVO or use a mechanism with generics and closures.
 
 In the MVVM we even not need a contract (eg: java interface/ iOS protocol) between ViewModel and View because we usually communicate through the Observer Design Pattern.
 
