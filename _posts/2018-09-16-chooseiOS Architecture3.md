@@ -29,11 +29,10 @@ Of course in the Interactor layer, you often access the model layer. In the VIPE
 
 
 ![](https://github.com/TiagoMJFlores/tiagomjflores.github.io/blob/master/assets/posts/chooseiOSArchitecture3/VIPER.png?raw=true)
+-> View/View Controller -> Presenter -> Interactor -> Presenter -> View/View Controller
 
-<View/View Controller -> Presenter -> Interactor -> Presenter -> View/View Controller
 
-
-The limitation/restriction of flow always following strictly the same predefined sequence and direction using the architecture layers is a good point in favour of VIPER and VIP. This prevents each developer in the team from following a different flow sequence and direction between layers because still is possible to have the same exact layers without using a strict flow sequence.
+The limitation/restriction of flow always following strictly the same predefined sequence and direction using the architecture layers is a good point in favour of VIPER and VIP. This prevents each developer in the team from following a different flow sequence and direction between layers.
 
 According to my limited experience, the main difference between VIPER and VIP is that in the VIPER the Presenter has a central role and in the VIP the flow sequence between layers is more linear.
 
