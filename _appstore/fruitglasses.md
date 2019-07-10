@@ -24,7 +24,7 @@ The Fruit Nutrition information is obtained from the API:
 https://developer.edamam.com
 
 ## Video Demo
-https://youtu.be/Y1IuyVyK4bc
+[See Here](https://youtu.be/Y1IuyVyK4bc)
 
 ## Test Flight
 
