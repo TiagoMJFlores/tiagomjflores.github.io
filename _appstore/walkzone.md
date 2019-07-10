@@ -11,6 +11,9 @@ The WALK zone app is intended to provide an exploring experience/emotion such as
 The app encourages the exploration of geographic locations by creating dynamic paths through the joining of random waypoints.
 To make the experience more entertaining the app also makes use of augmented reality and gamification.
 
+## Video Demo
+[See Here](https://youtu.be/dtkChb0Sy-o)
+
 ## HISTORY OF CREATION
 
 In 2019 I participated in the 9th edition of the Acredita Portugal contest.
@@ -34,6 +37,7 @@ The app uses MapKit.
 ## Test Flight
 
 [https://testflight.apple.com/join/ZqRRAWaf](https://testflight.apple.com/join/ZqRRAWaf)
+
 
 ## Thanks
 
