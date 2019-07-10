@@ -1,7 +1,7 @@
 ---
 title: "WALK zone"
 image:
-  path: /assets/appstore/bombeirospt/cover.jpg
+  path: /assets/appstore/walkzone/cover.jpg
   thumbnail: /assets/appstore/walkzone/logo.png
   caption: ""
 comments: false
