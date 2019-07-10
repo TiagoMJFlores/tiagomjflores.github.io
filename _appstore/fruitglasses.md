@@ -1,7 +1,7 @@
 ---
 title: "Fruit Glasses"
 image:
-  path: /assets/appstore/fruitglasses/cover.jpg
+  path: /assets/appstore/fruitglasses/cover.png
   thumbnail: /assets/appstore/fruitglasses/logo.png
   caption: ""
 comments: false

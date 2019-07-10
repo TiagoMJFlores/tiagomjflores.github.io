@@ -1,7 +1,7 @@
 ---
 title: "WALK zone"
 image:
-  path: /assets/appstore/walkzone/cover.jpg
+  path: /assets/appstore/walkzone/cover.png
   thumbnail: /assets/appstore/walkzone/logo.png
   caption: ""
 comments: false
