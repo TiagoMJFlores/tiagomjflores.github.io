@@ -33,7 +33,7 @@ The app uses MapKit.
 
 ## Test Flight
 
-* [URL](https://testflight.apple.com/join/ZqRRAWaf) https://testflight.apple.com/join/ZqRRAWaf
+* [https://testflight.apple.com/join/ZqRRAWaf](https://testflight.apple.com/join/ZqRRAWaf)
 
 ## Thanks
 
