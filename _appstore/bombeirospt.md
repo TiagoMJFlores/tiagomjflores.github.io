@@ -14,7 +14,7 @@ At that time the [`bombeiros.pt`](https://bombeiros.pt/) organization already ha
 
 ## App Store
 
-* [URL](https://itunes.apple.com/pt/app/bombeiros-pt/id1354155542?mt=8)
+* [See here](https://itunes.apple.com/pt/app/bombeiros-pt/id1354155542?mt=8)
 
 
 ## App Features

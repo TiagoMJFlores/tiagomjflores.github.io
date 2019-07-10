@@ -7,8 +7,7 @@ image:
 comments: false
 ---
 
-I began to develop interest in Augmented Reality and Computer Vision especially when I heard rumors
-that Apple would release smart glasses in the future.
+I began to develop interest in Augmented Reality and Computer Vision especially when I [read rumors](https://www.businessinsider.com/apple-smart-glasses-rumors-everything-we-know-2019-3) that Apple would release smart glasses in the future.
 So I decided to develop a small project to test Apple's APIs and tools.
 
 ## Video Demo
@@ -16,7 +15,7 @@ So I decided to develop a small project to test Apple's APIs and tools.
 
 ## Test Flight
 
-* (Will be added soon)
+(Will be added soon)
 
 ## App Features
 
