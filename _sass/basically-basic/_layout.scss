@@ -2,6 +2,11 @@
    Layout
    ========================================================================== */
 
+img[src$="centerme"] {
+     display:block;
+     margin: 0 auto;
+}
+
 .canvas {
   position: relative;
   width: 100%;
@@ -57,7 +62,7 @@ main {
 }
 
 .inner {
-  
+
 }
 
 /*
