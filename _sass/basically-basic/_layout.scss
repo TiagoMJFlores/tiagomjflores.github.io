@@ -1,15 +1,21 @@
 /* ==========================================================================
    Layout
    ========================================================================== */
-
+// css center image, example: ![alt text](https://raw.githubusercontent.com/TiagoMJFlores/tiagomjflores.github.io/master/assets/appstore/walkzone/cover2.png?style=centerme)
 img[src$="centerme"] {
      display:block;
      margin: 0 auto;
 }
 
+// example {:.center}
 .center {
   text-align: center;
 }
+
+.left {
+  text-align: left;
+}
+
 
 .canvas {
   position: relative;
