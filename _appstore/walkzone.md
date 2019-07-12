@@ -8,7 +8,8 @@ comments: false
 ---
 
 The WALK zone app is intended to provide an exploring experience/emotion such as the Calm app (https://www.calm.com/) offers a relaxation experience/emotion.
-The app encourages the exploration of geographic locations and points of interest by creating dynamic paths through the joining of random waypoints.
+The app encourages the exploration of geographic locations by creating
+an infinite number of paths through the joining of random waypoints.
 To make the experience more fun the app also makes use of augmented reality and gamification.
 
 
