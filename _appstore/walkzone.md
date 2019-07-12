@@ -12,7 +12,8 @@ The app encourages the exploration of geographic locations and points of interes
 To make the experience more fun the app also makes use of augmented reality and gamification.
 
 ## Video Demo
-[See Here](https://youtu.be/dtkChb0Sy-o)
+[See Here](https://youtu.be/dtkChb0Sy-o) ![alt text](https://github.com/TiagoMJFlores/tiagomjflores.github.io/tree/master/assets/appstore/walkzone/cover2.png "Logo Title Text 1")
+
 
 ## Test Flight
 
