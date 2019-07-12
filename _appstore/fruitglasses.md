@@ -1,5 +1,5 @@
 ---
-title: "Fruit Glasses"
+title: "Fruit Vision"
 image:
   path: /assets/appstore/fruitglasses/cover.png
   thumbnail: /assets/appstore/fruitglasses/logo.png
