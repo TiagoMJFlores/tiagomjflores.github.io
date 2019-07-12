@@ -13,7 +13,7 @@ To make the experience more fun the app also makes use of augmented reality and 
 
 ## Video Demo
 ![alt text](https://raw.githubusercontent.com/TiagoMJFlores/tiagomjflores.github.io/master/assets/appstore/walkzone/cover2.png?style=leftme)
-[See Here](https://youtu.be/dtkChb0Sy-o)
+[Show Video](https://youtu.be/dtkChb0Sy-o)
 
 ## Test Flight
 
