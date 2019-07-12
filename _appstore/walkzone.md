@@ -38,7 +38,7 @@ We also sought to provide an opportunity for companies to do content marking thr
 
 The current prototype only have the base functionality.
 Currently WALK zone allows the generation of random routes from the user's current geographic location according to a user-defined travel time in minutes.
-The app gives currencies at waypoints (gamification component) and sometimes shows augmented reality content.
+The app gives coins for each complete route (gamification component) and sometimes shows augmented reality content in some waypoints.
 
 ## Technology
 
