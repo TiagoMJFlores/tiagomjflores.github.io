@@ -42,7 +42,7 @@ The app gives coins for each complete route (gamification component) and sometim
 
 ## Technology
 
-The app uses Apple MapKit Framework.
+The WALK zone app uses the Apple MapKit Framework.
 
 
 ## Thanks
