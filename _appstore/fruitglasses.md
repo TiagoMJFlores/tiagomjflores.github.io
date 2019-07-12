@@ -11,7 +11,7 @@ I began to develop interest in Augmented Reality and Computer Vision especially 
 So I decided to develop a small project to test and learn some of the new Apple's APIs and tools.
 
 ## Video Demo
-[See Here](https://youtu.be/Y1IuyVyK4bc)
+[Show Video](https://youtu.be/Y1IuyVyK4bc)
 
 ## Test Flight
 
