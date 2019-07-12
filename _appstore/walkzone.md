@@ -1,12 +1,12 @@
 ---
 title: "WALK zone"
 image:
-  path:
+  path: false
   thumbnail: /assets/appstore/walkzone/logo.png
   caption: ""
 comments: false
 ---
-![alt text](https://raw.githubusercontent.com/TiagoMJFlores/tiagomjflores.github.io/master/assets/appstore/walkzone/cover2.png)
+![alt text](https://raw.githubusercontent.com/TiagoMJFlores/tiagomjflores.github.io/master/assets/appstore/walkzone/cover2.png?style=rightme)
 
 The WALK zone app is intended to provide an exploring experience/emotion such as the Calm app (https://www.calm.com/) offers a relaxation experience/emotion.
 The app encourages the exploration of geographic locations and points of interest by creating dynamic paths through the joining of random waypoints.
