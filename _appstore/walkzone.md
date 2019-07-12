@@ -1,3 +1,4 @@
+{:.center}
 ---
 title: "WALK zone"
 image:
