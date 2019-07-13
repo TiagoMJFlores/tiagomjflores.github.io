@@ -9,6 +9,7 @@ comments: false
 
 I began to develop interest in Augmented Reality and Computer Vision especially when I [read rumors](https://www.businessinsider.com/apple-smart-glasses-rumors-everything-we-know-2019-3) that Apple would release smart glasses in the future.
 So I decided to develop a small project to test and learn some of the new Apple's APIs and tools.
+The result of my experiences was Fruit Vision, an app that represents my first steps in the field of machine learning. 
 
 ## Video Demo
 [Show Video](https://youtu.be/Y1IuyVyK4bc)
