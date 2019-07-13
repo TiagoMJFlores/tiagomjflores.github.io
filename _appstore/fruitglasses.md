@@ -7,8 +7,7 @@ image:
 comments: false
 ---
 
-I began to develop interest in Augmented Reality and Computer Vision especially when I [read rumors](https://www.businessinsider.com/apple-smart-glasses-rumors-everything-we-know-2019-3) that Apple was developing a smart glasses Technology
- that would be released in the future.
+I began to develop interest in Augmented Reality and Computer Vision especially when I [read rumors](https://www.businessinsider.com/apple-smart-glasses-rumors-everything-we-know-2019-3) that Apple was developing a smart glasses Technology.
 So I decided to create a small project to test and learn some of the new  Apple's Machine Learning API and tools.
 Overall this small experience gave me a better idea of the possibilities of Machine Learning and some of its limitations.
 
