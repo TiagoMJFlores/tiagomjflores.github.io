@@ -12,7 +12,7 @@ During the summer the fires are always a big problem in Portugal.
 In 2017 a great fire happened at Pedrógão Grande that killed about 66 people.
 At that time the [`bombeiros.pt`](https://bombeiros.pt/) organization already had developed an Android app that helped the firemen to perform their functions but also needed to create the iOS version. So I thought it was a good cause and volunteered to create the iOS version.
 
-## App Store
+## Personal Projects
 
 * [See here](https://itunes.apple.com/pt/app/bombeiros-pt/id1354155542?mt=8)
 
