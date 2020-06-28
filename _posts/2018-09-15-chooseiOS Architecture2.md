@@ -28,7 +28,7 @@ V : UI Layer (UIKit things, Storyboards, Xibs)
 
 C: Coordinates mediation between Model and View.
 
-To understand MVC we must understand the context in which it was invented. MVC was invented in the old Web development days, where Views has no state. In the old times each time we need a visual change in the website, the browser reload the whole HTML again. At the time there was no concept of the view state being maintained and saved.
+To understand MVC we must understand the context in which it was invented. MVC have become mainstream in the old Web development days, where Views has no state. In the old times each time we need a visual change in the website, the browser reload the whole HTML again. At the time there was no concept of the view state being maintained and saved.
 
 There were, for example, some developers that mixed within the same HTML file, PHP and database access. So the main motivation of MVC was to separate the View layer from the Model layer. This increased the testability of the Model layer. Supposedly in MVC, the View and Model layer should know nothing about each other. For make this to be possible, an intermediary layer named Controller was invented. This was the SRP that was applied.
 
@@ -119,22 +119,27 @@ So the contracts (protocols) create a decoupling between the layers.
 
 ![](https://github.com/TiagoMJFlores/tiagomjflores.github.io/blob/master/assets/posts/chooseiOSArchitecture2/MVVM.png?raw=true)
 
-One of the main differences between MVP and MVVM is that in MVP the Presenter communicates with the View through interfaces, and in the MVVM the View is oriented to data and events changes.
+One of the main differences of implementation between MVP and MVVM is that in MVP the Presenter communicates with the View through interfaces, and in the MVVM the View is oriented to data and events changes.
 
 In The MVP we make manual binding between Presenter and View using Interfaces/Protocols.
-In The MVVM we make automatic data binding using something like RxSwift, KVO or use a mechanism with generics and closures.
+
+In The MVVM we make automatic data binding using something like RxSwift, KVO or use a mechanism with generics and closures. SwiftUI already has data binding mechanisms .The data binding can reduce the boilerplate a lot.
 
 In the MVVM we even not need a contract (eg: java interface/ iOS protocol) between ViewModel and View because we usually communicate through the Observer Design Pattern.
+The MVP uses the Delegate Pattern because the Presenter Layer Delegates orders to the View Layer, so it needs to know something about the View even if it is only the interface/protocol signature. Think of the difference between Notification Center and TableView Delegates. 
+The Notification Center doesn’t need interfaces to create a communication channel, but TableView Delegates uses a protocol that the classes should implement.
 
-The MVP uses the Delegate Pattern because the Presenter Layer Delegates orders to the View Layer, so it needs to know something about the View even, it is only the interface/protocol signature. Think of the difference between Notification Center and TableView Delegates. The Notification Center doesn’t need interfaces to create a communication channel, but TableView Delegates uses a protocol that the classes should implement.
+Think of the presentation logic of a loading indicator. In MVP the presenter does ViewProtocol.showLoadingIndicator. In MVVM there may be an isLoading property in the ViewModel. The View layer through an automatic data binding detects when this property changes and refreshes itself. 
 
-Think of the presentation logic of a loading indicator. In MVP the presenter does ViewProtocol.showLoadingIndicator. In MVVM there may be an isLoading property in the ViewModel. The View layer through an automatic data binding detects when this property changes and refreshes itself. MVP is more imperative than MVVM because the Presenter gives orders.
+MVP is more imperative than MVVM because the Presenter gives orders.
+So while in MVP the presenter pushes data from presenter to the view, in MVVM the view pulls that data from the view model,
 
 MVVM is more about data changes than direct orders, and we make associations between data changes and view updates. If use RxSwift and functional reactive programming paradigm together with MVVM we have made the code even less imperative and more declarative.
 
 MVVM is easier to test than MVP because MVVM uses the Observer Design Pattern that transfers data between components in a decoupled way.
 So we can test just by looking at changes in data just by comparing the two objects rather than creating mocks the methods calls to test the communication between View and Presenter.
 
+PS: I did some updates to the article that made it grow a lot, so it was necessary to split it into three parts. You can read part three here.
 Part two ends here. All feedback is welcome. Part three will talk about VIPER, VIP, Reactive Programming, Trade-Offs, Constraints and Contextual Sense.
 
 Thank you for reading!  ✨
