@@ -6,4 +6,4 @@ collection: appstore
 entries_layout: grid
 ---
 
-My apps in the app store and projects done outside of work.
+My apps on the app store and personal projects done outside of work.

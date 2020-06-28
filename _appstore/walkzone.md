@@ -7,8 +7,8 @@ image:
 comments: false
 ---
 
-The WALK zone app is intended to provide an exploring experience/emotion such as the Calm app (https://www.calm.com/) offers a relaxation experience/emotion.
-The app encourages the exploration of geographic locations by creating
+The WALK zone app designed to provide an exploring experience/emotion such as the Calm app (https://www.calm.com/) offers a relaxation experience/emotion.
+The app encouraged the exploration of geographic locations by creating
 an infinite number of paths through the joining of random waypoints.
 To make the experience more FUN it also makes use of augmented reality and gamification.
 
@@ -21,9 +21,6 @@ To make the experience more FUN it also makes use of augmented reality and gamif
 [Show Video](https://youtu.be/dtkChb0Sy-o)
 
 
-## Test Flight
-
-[https://testflight.apple.com/join/ZqRRAWaf](https://testflight.apple.com/join/ZqRRAWaf)
 
 ## Context of Creation
 
@@ -32,7 +29,7 @@ The 9th edition of the contest Montepio Acredita Portugal was the largest compet
 and the second largest in the world, had a total of 10,340 team entries.
 Using the design and business plan of the initial prototype Walk Zone app (at the time called the Hike Zone) I reached the group of semi-finalists group that had only 300 teams.
 
-From a business point of view the purpose of the app was to create a habit of daily use through a component of variability and good experience of use and use this as leverage to create a platform where our team could sell geolocalized advertising.
+From a business point of view the purpose of the app was to create a habit of daily use through a component of variability and good user experience and use this as leverage to create a platform where our team could sell geolocalized advertising.
 We also sought to provide an opportunity for companies to do content marking through the distribution of augmented reality contents.
 
 ## App Features
